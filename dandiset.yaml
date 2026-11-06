@@ -19,9 +19,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: two-photon microscopy technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 177002386048
-  numberOfFiles: 150
-  numberOfSubjects: 13
+  numberOfBytes: 186441131440
+  numberOfFiles: 159
+  numberOfSubjects: 14
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
